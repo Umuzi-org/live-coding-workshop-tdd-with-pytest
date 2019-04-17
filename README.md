@@ -4,8 +4,6 @@ The code is based on this: https://osherove.com/tdd-kata-1/
 
 We are using pytest (`pip install pytest`).
 
-## the importance of unit testing
-
 ## suggested procedure
 
 Read the kata web page from the top and see if you can figure out what piece of the kata specification was implemented by each test.
