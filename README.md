@@ -2,7 +2,15 @@
 
 The code is based on this: https://osherove.com/tdd-kata-1/
 
-We are using pytest (`pip install pytest`).
+We are using pytest. Best practice is to list requirements in a requirements file. So you can install it like this:
+
+## installation
+
+```
+pip install -r requirements.txt
+```
+
+This code works with Python2.7 and Python3.7.
 
 ## suggested procedure
 
